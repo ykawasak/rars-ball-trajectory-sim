@@ -4,6 +4,13 @@ This is a physics-based simulation of a bouncing ball's trajectory, written in R
 
 It calculates and draws the ball's path on the RARS Bitmap Display in real-time, based on an initial vertical speed provided by the user.
 
+<p align="center">
+  <img width="254" height="257" alt="Simulation Result" src="https://github.com/user-attachments/assets/b3935471-2692-4eff-b4e4-b59259227d8e" />
+</p>
+<p align="center">
+  <em>Example output on RARS Bitmap Display</em>
+</p>
+
 ## Simulation Parameters
 The program operates based on the following physical rules:
 
@@ -25,4 +32,3 @@ The program operates based on the following physical rules:
 4.  Click the **Run** icon (green play button) to assemble and run the program.
 5.  {Describe how to input the initial speed here. e.g., "Enter a value in the console" or "Set the initial value in register a0".}
 6.  The trajectory of the ball will be drawn on the Bitmap Display.
-<img width="254" height="257" alt="result" src="https://github.com/user-attachments/assets/b3935471-2692-4eff-b4e4-b59259227d8e" />
